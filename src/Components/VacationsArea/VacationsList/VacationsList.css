@@ -1,0 +1,13 @@
+
+.VacationsList> a {
+    position: absolute;
+    top: 120px;
+    right: 20px;
+    text-decoration: none;
+}
+
+.VacationsList .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
